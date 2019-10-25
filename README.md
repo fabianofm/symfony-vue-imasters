@@ -6,6 +6,5 @@
 
 ----
 NOTA:
-* É possível alterar a porta ao rodar `yarn encore dev-server`, caso tenha problemas com a porta.
-```yarn encore dev-server --port 8282
-```
+* É possível alterar a porta ao rodar `yarn encore dev-server` , caso tenha problemas com a porta.
+`yarn encore dev-server --port 8282`
