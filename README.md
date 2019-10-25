@@ -7,4 +7,6 @@
 ----
 NOTA:
 * É possível alterar a porta ao rodar `yarn encore dev-server` , caso tenha problemas com a porta.
+Especificação explícita da porta:
+
 `yarn encore dev-server --port 8282`
